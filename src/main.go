@@ -2,6 +2,8 @@ package main
 
 import (
 	"context"
+	"log"
+	"os"
 
 	nutanix "github.com/tecbiz-ch/nutanix-go-sdk"
 )
